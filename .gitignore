@@ -43,3 +43,6 @@ Thumbs.db
 
 #node
 package-lock.json
+
+#eslint
+eslint.config.js
